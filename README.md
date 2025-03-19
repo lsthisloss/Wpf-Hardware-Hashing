@@ -1,5 +1,5 @@
-There is simple WPF app that get systen information from WinApi: 
-Win32_Processor;  
+There is simple WPF app that get systen information from WinApi:   
+Win32_Processor;   
 Win32_BIOS;  
 Win32_BaseBoard;  
 Win32_VideoController;  
