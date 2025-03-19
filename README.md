@@ -6,5 +6,6 @@ Win32_VideoController;
 Win32_DiskDrive;  
 Win32_NetworkAdapter;  
 
-![image](https://github.com/user-attachments/assets/2b00f46c-56f7-4c5c-9b7e-886ce1025bbe)
+![image](https://github.com/user-attachments/assets/92936708-0e9d-4a59-8568-5980784073cd)
+
 
